@@ -1,7 +1,6 @@
 let nomeHeroi = "Leumas"
 let xpHeroi = 5991
 let nivelHeroi
-xpHeroi = 1001
 
 if (xpHeroi <= 1000) {
   nivelHeroi = "Ferro"
